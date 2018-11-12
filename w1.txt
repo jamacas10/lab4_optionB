@@ -1,0 +1,6 @@
+hand
+apple
+chicken
+tree
+free
+spot
